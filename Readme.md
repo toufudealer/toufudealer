@@ -19,9 +19,10 @@
 
 ---
 
-![Coding GIF](https://media1.tenor.com/m/kBxZ0Etje2gAAAAC/yakuza-kiryu.gif)
-
-![Coding GIF](https://media1.tenor.com/m/AF7WpaN_CNIAAAAd/sagolasin-sagopa-kajmer.gif)
+<div style="display: flex; justify-content: space-around;">
+  <img src="https://media1.tenor.com/m/kBxZ0Etje2gAAAAC/yakuza-kiryu.gif" alt="Coding GIF" width="48%">
+  <img src="https://media1.tenor.com/m/AF7WpaN_CNIAAAAd/sagolasin-sagopa-kajmer.gif" alt="Coding GIF" width="48%">
+</div>
 
 ---
 
