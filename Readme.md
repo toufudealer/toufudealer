@@ -4,7 +4,7 @@
 
 ---
 
-### 📫 Bana Ulaşın
+### 📫 Contact me
 
 *   🎮 **Steam:** [toufudealer](https://steamcommunity.com/id/toufudealer)
 *   💬 **Discord:** `toufudealer`
